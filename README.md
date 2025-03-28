@@ -1,21 +1,23 @@
-🛫 Sistema de Gestión de Reservas - Aerolínea ✈️
-Este repositorio contiene el código fuente de un prototipo de sistema para la venta de pasajes de una aerolínea, desarrollado como parte de la materia Programación 2.
+# ✈️ Sistema de Gestión de Reservas - Aerolínea  
 
-📌 Descripción del Proyecto
-El objetivo del sistema es permitir la gestión eficiente de reservas de vuelos, ofreciendo funcionalidades clave como:
+![Reservas de Vuelos](https://img.shields.io/badge/Proyecto-Aerolínea-blue)  
+📌 **Materia:** Programación 2  
 
-Registro y administración de clientes.
+## 📖 Descripción  
+Este repositorio contiene el desarrollo de un **prototipo de sistema de venta de pasajes** para una aerolínea.  
+El sistema permitirá gestionar las reservas de vuelos, brindando una experiencia eficiente tanto para clientes como para administradores.  
 
-Búsqueda y selección de vuelos disponibles.
+## 🔹 Funcionalidades  
+✅ Registro y administración de clientes  
+✅ Búsqueda y selección de vuelos  
+✅ Compra y cancelación de pasajes  
+✅ Gestión de disponibilidad y ocupación de vuelos  
+✅ Generación de reportes sobre ventas y reservas  
 
-Compra y cancelación de pasajes.
+## 🛠️ Tecnologías Utilizadas  
+- 💻 **Lenguaje:** C#  
+- 🗄️ **Base de datos:** _(Indicar cuál vas a usar: SQL Server, MySQL, etc.)_  
+- 📐 **Modelado:** UML para diseño del sistema  
+- 🌐 **Frameworks/Librerías:** _(Si usás .NET o alguna otra librería, agregar acá)_  
 
-Generación de reportes sobre ventas y disponibilidad de vuelos.
-
-🛠️ Tecnologías Utilizadas
-(Aquí podés agregar el stack tecnológico que estés usando: Python, Java, SQL, etc.)
-
-🚀 Estado del Proyecto
-Este es un prototipo en desarrollo, por lo que algunas funcionalidades pueden no estar completamente implementadas.
-
-📂 Instalación y Uso
+## 📂 Estructura del Proyecto  
